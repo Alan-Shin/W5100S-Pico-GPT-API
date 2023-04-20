@@ -12,7 +12,7 @@ global api_key
 global weather
 global query
 
-api_key = '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'
+api_key = 'Your Open AI API'
 
 def getweather():
     global temperature, weather
