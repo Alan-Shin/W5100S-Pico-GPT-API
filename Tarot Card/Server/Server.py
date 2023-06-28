@@ -12,7 +12,7 @@ global api_key
 global weather
 global query
 
-api_key = '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'
+api_key = 'Your API Key'
 
 def Chat_GPT(api_key, query):
     global answer
